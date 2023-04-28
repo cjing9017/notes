@@ -360,7 +360,7 @@
 
 图附-1：Hive数据类型继承图
 
-   ![Hive数据类型继承图](https://cdn.jsdelivr.net/gh/cjing9017/Files@main/img/image-20230427150006490.png)
+![Hive数据类型继承图](/Users/chenjing/Downloads/hive.png)
 
 # 参考：
 
