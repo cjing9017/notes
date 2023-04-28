@@ -39,5 +39,3 @@
   String author0 = JsonPath.read(document, "$.store.book[0].author");
   String author1 = JsonPath.read(document, "$.store.book[1].author");
   ```
-
-# 
