@@ -307,8 +307,6 @@
 | ARRAY                   | collect_list(col)                                        | 1、返回包含重复元素的对象列表                                |
 | INTEGER                 | ntile(INTEGER x)                                         | 1、把有序的数据集合平均分配到指定的数量x个桶中, 将桶号分配给每一行2、如果不能平均分配，则优先分配较小编号的桶，并且各个桶中能放的行数最多相差13、可以方便地计算三位数、四位数、十位数、百分位数和其他常见的汇总统计数据。4、使用语法是：ntile (num) over ([partition_clause] order_by_clause) as your_bucket_num |
 
-
-
 # 三、内置表生成函数（UDTF）
 
 | 列的数据类型                        | 函数签名                                                | 含义                                                         |
