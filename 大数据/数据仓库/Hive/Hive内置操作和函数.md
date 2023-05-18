@@ -358,7 +358,7 @@
 
 图附-1：Hive数据类型继承图
 
-![Hive数据类型继承图](/Users/chenjing/Downloads/hive.png)
+![image-20230517151747722](https://cdn.jsdelivr.net/gh/cjing9017/Files@main/img/202305171517089.png)
 
 # 参考：
 
