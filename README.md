@@ -2,8 +2,13 @@
 
 参考：
 
-- AcWing的算法基础课
-- Java成神之路
-- Java Guide
-- 尚硅谷课程
+- AcWing：算法基础课
+- [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+- 尚硅谷课程：Hadoop、Spark、Kafka、Maven、Spring
 - MT学城
+- 《阿里巴巴Java开发手册》
+- 《Java8实战》
+- [JsonPath](https://github.com/json-path/JsonPath)
+- [QLExpress](https://github.com/alibaba/QLExpress)
+- 
